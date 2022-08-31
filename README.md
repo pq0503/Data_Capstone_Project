@@ -1,2 +1,2 @@
-# PQ-s-portfolio
+# PQ-portfolio
 Analytics Portfolio
