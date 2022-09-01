@@ -19,7 +19,7 @@ The analysis process has 6 phases:
 
 *The cleaning process will be process by SQL language illustrated in coding file embemdded in the project file*
 
-[Link](https://github.com/pq0503/PQ-portfolio/blob/76224e0010f567c6be3d3b9af5ef186998fcfbd7/Capstone%20Project.pdf)
+[Cleaning Script](https://github.com/pq0503/PQ-portfolio/blob/76224e0010f567c6be3d3b9af5ef186998fcfbd7/Capstone%20Project.pdf)
 
 ***4. ANALYZE***
 - Performing quantitative analysis regarding cleaned data done in the previous phase.
