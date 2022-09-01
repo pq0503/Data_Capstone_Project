@@ -1,5 +1,56 @@
----SQL SCRIPT---
+*/
 
 This is the SQL script used to import, compile and analyse the Cyclistic Case 
 This code script is part of full capstone project
-The scrip includeds 10 steps executing from combining, arranging to cleaning the data and prepare for later analysis. 
+The scrip includeds 10 steps executing from combining, arranging to cleaning the data and prepare for later analysis
+
+*/
+
+---SQL SCRIPT------------------------------------------------------------------
+step 1: Merging the data of 12 months into 1 “aggregate_table” using UNION function:
+
+SELECT *  
+FROM `beaming-surfer-359923.trip_data_2021.month_1` 
+union all
+SELECT *  
+FROM `beaming-surfer-359923.trip_data_2021.month_2` 
+union all
+SELECT *  
+FROM `beaming-surfer-359923.trip_data_2021.month_3`
+union all
+SELECT *  
+FROM `beaming-surfer-359923.trip_data_2021.month_4`
+union all
+SELECT *  
+FROM `beaming-surfer-359923.trip_data_2021.month_5`
+union all
+SELECT *  
+FROM `beaming-surfer-359923.trip_data_2021.month_6`
+union all
+SELECT *  
+FROM `beaming-surfer-359923.trip_data_2021.month_7`
+union all
+SELECT *  
+FROM `beaming-surfer-359923.trip_data_2021.month_8`
+union all
+SELECT *  
+FROM `beaming-surfer-359923.trip_data_2021.month_9`
+union all
+SELECT *  
+FROM `beaming-surfer-359923.trip_data_2021.month_10`
+union all
+SELECT *  
+FROM `beaming-surfer-359923.trip_data_2021.month_11`
+union all
+SELECT *  
+FROM `beaming-surfer-359923.trip_data_2021.month_12`
+---------------------------------------------------------
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+Step 6:
+Step 7:
+Step 8:
+Step 9:
+Step 10:
