@@ -32,4 +32,4 @@ Link
 ***6. ACT***
 - Offering solutions for the problem or improve the business
 
-***The full analysis will be presented in form of PDF file with the link below*** 
+***The full analysis will be presented in form of PDF file with the link below:*** 
