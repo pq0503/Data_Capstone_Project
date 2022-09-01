@@ -16,4 +16,18 @@ The analysis process has 6 phases:
 
 ***3. PROCESS***
 - Cleaning and arranging data for later analysis (Using Google Bigquery working site)
+
 *The cleaning process will be process by SQL language illustrated in coding file embemdded in the project file*
+Link
+
+***4. ANALYZE***
+- Performing quantitative analysis regarding cleaned data done in the previous phase.
+- Driving insights from available data 
+
+***5. SHARE***
+- Visualizing the insights found
+- Illustrating all the informations needed to solve the problem on graphs/charts
+- Preparing for presentation to convey the stories behind the data to stakeholders
+
+***6. ACT***
+- Offering solutions for the problem or improve the business
