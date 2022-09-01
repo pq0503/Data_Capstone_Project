@@ -44,8 +44,16 @@ FROM `beaming-surfer-359923.trip_data_2021.month_11`
 union all
 SELECT *  
 FROM `beaming-surfer-359923.trip_data_2021.month_12`
+
 ---------------------------------------------------------
-Step 2:
+
+Step 2:Check whether all the trip_Id are unique or not and the result matched the total numbers of rows in a table:
+
+SELECT  
+count(distinct(ride_id))
+FROM `beaming-surfer-359923.trip_data_2021.aggregate_2021`
+
+----------------------------------------------------------
 Step 3:
 Step 4:
 Step 5:
