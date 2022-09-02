@@ -18,7 +18,7 @@ The analysis process has 6 phases:
 ***3. PROCESS***
 - Cleaning and arranging data for later analysis (Using Google Bigquery working site)
 
-*The cleaning process will be process by SQL language illustrated in coding file embemdded in the project file*
+*The cleaning process will be processed by SQL language illustrated in coding file embemdded in the project file*
 
 [Cleaning Script](https://github.com/pq0503/PQ-portfolio/blob/aa7448a53982e4a59dc273a99f3ce72fff81194c/SQL%20Script)
 
